@@ -2,5 +2,5 @@ name: "alarm-block"
 displayName: "Block that sounds alarm on destruction" //what displays in the mod selection menu
 author: "gnorbsl"
 description: "Block sounds alarm on destruction for early warning system"
-version: "0.1"
+version: "0.2"
 minGameVersion: "103"
