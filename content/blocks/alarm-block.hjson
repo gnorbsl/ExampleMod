@@ -4,11 +4,11 @@ description: Sounds alarm on destruction
 update: true
 solid: true
 size: 2
+breakSound: alarm
 hasPower: true
 consumes: {
   power: 0.7
 }
-breakSound: alarm
 requirements: [
   graphite/75,
   silicon/40,
