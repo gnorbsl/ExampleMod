@@ -9,7 +9,6 @@ consumes: {
   power: 0.7
 }
 breakSound: alarm
-activeSoundVolume: 1
 requirements: [
   graphite/75,
   silicon/40,
