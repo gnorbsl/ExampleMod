@@ -1,0 +1,16 @@
+name: Alarm Block
+type: block
+description: Sounds alarm on destruction
+update: true
+solid: true
+size: 2
+hasPower: true
+consumes: {
+  power: 0.7
+}
+breakSound: message
+requirements: [
+  graphite/75,
+  silicon/40,
+  surge-alloy/10
+]

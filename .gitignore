@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+/bundles/
+/content/liquids/
+/content/mechs/
+/content/items/
+/content/units/
+/content/zones/
+/maps/
+/scripts/scatter-silo.js
+/sounds/swings.ogg
+/sprites/
